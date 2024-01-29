@@ -10,3 +10,35 @@
     position: absolute;
     bottom: 0px;
 }
+
+.tabella_intestazione {
+    background-color: #1FA9E5;
+    color: white;
+}
+
+.dati_tabella {
+    background-color: #B1E4F2;
+    color: black;
+    padding: 25px;
+}
+
+h3 {
+    color: gray;
+}
+
+.test {
+    position: relative;
+}
+
+.testo {
+    position: absolute;
+    color: white;
+    font-weight: 700;
+    left: 15px;
+}
+
+.contatto {
+    color: #1FA9E5;
+    text-decoration: none;
+    font-weight: 700;
+}
