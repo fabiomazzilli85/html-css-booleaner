@@ -1,0 +1,12 @@
+.intestazione {
+    position: relative;
+    height: 150px;
+    background-color: #4EA0FF;
+    background-image:url('../img/pattern.png');
+}
+
+.logo {
+    width: 200px;
+    position: absolute;
+    bottom: 0px;
+}
